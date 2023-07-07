@@ -1,7 +1,7 @@
 iac-cvm
 ====
 
-使用 [Terraform](https://developer.hashicorp.com/terraform/downloads) 创建一个测试用途的 [腾讯云 CVM](https://cloud.tencent.com/product/cvm) 集群。
+使用 [Terraform](https://developer.hashicorp.com/terraform/downloads) 创建一个测试用途的 [腾讯云 CVM](https://cloud.tencent.com/product/cvm) 实例。
 
 - 配置并提供以下用于调用腾讯云API的环境变量：
     - `export TENCENTCLOUD_SECRET_ID="<my-secret-id>"`
